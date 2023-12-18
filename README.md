@@ -8,11 +8,6 @@
     <img src="https://media.giphy.com/media/UcK7JalnjCz0k/giphy.gif" width="400" height="200"/>
   </div>
 
-  <div id="badges">
-    <a href="your-linkedin-URL">
-      <img src="https://komarev.com/ghpvc/?username=yuliyamkh&style=flat-square&color=blue" alt=""/>
-    </a>
-  </div>
 </div>
 
 ---
