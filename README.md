@@ -33,4 +33,4 @@ I am a master's student of General Linguistics on the verge of graduating.
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yuliyamkh&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yuliyamkh&theme=default)](https://git.io/streak-stats)
