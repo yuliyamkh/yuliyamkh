@@ -17,7 +17,7 @@ I am a master's student of General Linguistics on the verge of graduating.
 
 - 🔭 Currently preparing for my final oral exam and looking for new challenges in the field of Data Science or Natural Language Processing (NLP)
 - 🌱 Learning how to fine-tune pre-trained language models with :hugs: Transformers
-- ⚡ In my free time I work on Natural Language Processing (NLP) projects on Kaggle and read tech articles
+- ⚡ In my free time I work on NLP projects on Kaggle and read tech articles
 
 ---
 
