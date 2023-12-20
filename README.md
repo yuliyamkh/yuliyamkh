@@ -1,15 +1,8 @@
 <div id="header" align="center">
   <h1>
-    hey there
+    hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
   </h1>
-
-  <div align="center">
-    <img src="https://media.giphy.com/media/UcK7JalnjCz0k/giphy.gif" width="400" height="200"/>
-  </div>
-
 </div>
-
----
 
 ### :woman_student: About Me : 
 I am a master's student of General Linguistics on the verge of graduating.
